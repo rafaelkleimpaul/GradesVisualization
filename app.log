@@ -1,0 +1,88 @@
+2025-08-23 16:07:26,742 - INFO - ----Conectando ao DB----
+2025-08-23 16:26:50,278 - INFO - ----Conectando ao DB----
+2025-08-23 16:26:50,300 - INFO - DataFrame criado:
+       Nomes  Idade
+0        Ana     18
+1      Bruno     19
+2     Carlos     20
+3    Daniela     21
+4    Eduardo     22
+5   Fernanda     23
+6    Gabriel     24
+7     Helena     25
+8       Igor     26
+9      Joana     27
+10    Kleber     28
+11   Larissa     29
+12    Marcos     30
+13  Nathalia     31
+14    Otávio     32
+15  Patrícia     33
+16    Quésia     34
+17    Rafael     35
+2025-08-23 16:35:14,506 - DEBUG - Loaded backend macosx version unknown.
+2025-08-23 16:35:45,342 - INFO - ----Conectando ao DB----
+2025-08-23 16:35:45,402 - INFO - DataFrame criado:
+       Nomes  Idade
+0        Ana     18
+1      Bruno     19
+2     Carlos     20
+3    Daniela     21
+4    Eduardo     22
+5   Fernanda     23
+6    Gabriel     24
+7     Helena     25
+8       Igor     26
+9      Joana     27
+10    Kleber     28
+11   Larissa     29
+12    Marcos     30
+13  Nathalia     31
+14    Otávio     32
+15  Patrícia     33
+16    Quésia     34
+17    Rafael     35
+2025-08-23 16:35:54,563 - DEBUG - Loaded backend macosx version unknown.
+2025-08-23 16:37:27,127 - DEBUG - Loaded backend macosx version unknown.
+2025-08-23 16:37:50,203 - INFO - ----Conectando ao DB----
+2025-08-23 16:43:16,302 - INFO - DataFrame criado:
+       Nomes  Idade
+0        Ana     18
+1      Bruno     19
+2     Carlos     20
+3    Daniela     21
+4    Eduardo     22
+5   Fernanda     23
+6    Gabriel     24
+7     Helena     25
+8       Igor     26
+9      Joana     27
+10    Kleber     28
+11   Larissa     29
+12    Marcos     30
+13  Nathalia     31
+14    Otávio     32
+15  Patrícia     33
+16    Quésia     34
+17    Rafael     35
+2025-08-23 16:47:01,173 - INFO - ----Conectando ao DB----
+2025-08-23 16:47:01,180 - INFO - DataFrame criado:
+       Nomes  Idade
+0        Ana     18
+1      Bruno     19
+2     Carlos     20
+3    Daniela     21
+4    Eduardo     22
+5   Fernanda     23
+6    Gabriel     24
+7     Helena     25
+8       Igor     26
+9      Joana     27
+10    Kleber     28
+11   Larissa     29
+12    Marcos     30
+13  Nathalia     31
+14    Otávio     32
+15  Patrícia     33
+16    Quésia     34
+17    Rafael     35

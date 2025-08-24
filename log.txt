@@ -1,0 +1,18 @@
+2025-08-23 13:44:06,429 - ERROR - Erro ao executar o código
+Traceback (most recent call last):
+  File "/Users/rafaelkleimpaul/Desktop/DataSENAI/Aula3/aula4.py", line 24, in <module>
+    conn = sqlite3('./SENAI.db') #chama DB
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+2025-08-23 13:49:59,166 - ERROR - Erro ao executar o código
+Traceback (most recent call last):
+  File "/Users/rafaelkleimpaul/Desktop/DataSENAI/Aula3/aula4.py", line 24, in <module>
+    conn = sqlite3('./SENAI.db') #chama DB
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+2025-08-23 13:56:46,912 - ERROR - Erro ao executar o código
+Traceback (most recent call last):
+  File "/Users/rafaelkleimpaul/Desktop/DataSENAI/Aula3/aula4.py", line 24, in <module>
+    conn = sqlite3('./SENAI.db') #chama DB
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
